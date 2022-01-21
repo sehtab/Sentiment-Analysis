@@ -5,10 +5,10 @@ In this project, tweet about six airlines are analyzed to predict a tweet contai
 
 # Project Outline
 
-        * Data Analysis
-        * Data Cleaning
-        * TF-IDF
-        * Making Predictions and Evaluating the Model
+ * Data Analysis
+ * Data Cleaning
+ * TF-IDF
+ * Making Predictions and Evaluating the Model
 
 # Data Analysis
 
